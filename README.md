@@ -1,8 +1,5 @@
 # Semaine1
 
-# Semaine-1
-
-# Semaine1
 
 Je m'appelle Shéhérazade, j'ai 29 ans et je cherche à me reconvertir dans le developpement web 
 
